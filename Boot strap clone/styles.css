@@ -1,0 +1,50 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #6a4e77;
+}
+
+.navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-nav .nav-link {
+    color: #fff !important;
+}
+
+.footer {
+    background-color: #6a4e77;
+    color: #fff;
+    text-align: center;
+}
+
+.carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1, h2, h3 {
+    color: #6a4e77;
+}
+
+.form-control, .btn-primary {
+    border-radius: 0;
+}
+
+.btn-primary {
+    background-color: #6a4e77;
+    border-color: #6a4e77;
+}
+
+.container {
+    padding-top: 30px;
+}
